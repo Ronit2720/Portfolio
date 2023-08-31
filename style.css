@@ -430,3 +430,13 @@ footer {
 footer p {
   text-align: center;
 }
+
+
+.ronit{
+    border-radius: 50%;
+}
+
+.aboutimg{
+  filter: grayscale(100%);
+  border-radius: 50px;
+}
